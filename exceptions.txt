@@ -48,3 +48,5 @@
 83462: 'Castle (2009)', 'Castle',
 90651: 'Selling Houses Australia', 'Selling Houses Australia Extreme',
 70578: 'Highway Patrol', 'Highway Patrol (AU)',
+71699: 'The Outer Limits (1963)',
+221001: '10 O Clock Live',
