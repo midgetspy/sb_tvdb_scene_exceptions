@@ -51,3 +51,5 @@
 71699: 'The Outer Limits (1963)',
 221001: '10 O Clock Live',
 238521: 'Adam Eva',
+74512: 'Wife Swap (US)',
+166851: 'Noise Control (NZ)',
