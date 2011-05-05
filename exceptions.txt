@@ -56,3 +56,4 @@
 83774: 'Antiques Roadshow (UK)',
 156771: 'National Geographic Shark Men'
 246281: 'King', 'King (2011)',
+76168: 'Batman: The Animated Series', 'Batman: TAS',
