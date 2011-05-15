@@ -57,3 +57,7 @@
 156771: 'National Geographic Shark Men'
 246281: 'King', 'King (2011)',
 76168: 'Batman: The Animated Series', 'Batman: TAS',
+120541: 'Russell Howards Good News', 'Russell Howards Good News (UK)',
+179971: 'Buffy The Vampire Slayer',
+97731: 'Tosh.0', 'Tosh 0',
+224981: 'PhoneShop', 'Phone Shop',
