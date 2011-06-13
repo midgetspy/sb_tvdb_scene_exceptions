@@ -7,7 +7,7 @@
 75692: 'Law & Order: SVU',
 71489: 'Law & Order: Criminal Intent', 'Law & Order: CI',
 79590: 'Dancing With The Stars (US)',
-73387: 'Craig Ferguson',
+73387: 'The Late Late Show with Craig Ferguson', 'Craig Ferguson',
 85355: 'Jimmy Fallon',
 75088: 'David Letterman',
 76706: 'Big Brother (US)',
@@ -70,4 +70,7 @@
 78804: 'Doctor Who (2005)', 'Doctor Who 2005',
 79771: 'Air Crash Investigation', 'Air Crash Investigation Mayday', 'National Geographic Air Crash Investigation',
 210171: 'The Killing (2011)', 'The Killing 2011', 'The Killing',
-81670: 'The Murdoch Mysteries', 'Murdoch Mysteries',
+81670: 'The Murdoch Mysteries', 'Murdoch Mysteries', 'The Murdoch Mysteries 2008',
+79668: 'Anthony Bourdain: No Reservations', 'No Reservations',
+70336: 'The Tonight Show with Jay Leno', 'Jay Leno'
+
