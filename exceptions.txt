@@ -62,3 +62,4 @@
 97731: 'Tosh.0', 'Tosh 0',
 224981: 'PhoneShop', 'Phone Shop',
 76736: 'The Black Adder', 'BlackAdder',
+139681: 'The Smoking Gun Presents: The World\'s Dumbest', 'World\'s Dumbest',
