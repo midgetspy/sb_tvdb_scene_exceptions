@@ -72,5 +72,9 @@
 210171: 'The Killing (2011)', 'The Killing',
 81670: 'The Murdoch Mysteries', 'Murdoch Mysteries', 'The Murdoch Mysteries (2008)',
 79668: 'Anthony Bourdain: No Reservations', 'No Reservations',
-70336: 'The Tonight Show with Jay Leno', 'Jay Leno'
+70336: 'The Tonight Show with Jay Leno', 'Jay Leno',
 139681: 'The Smoking Gun Presents: The World\'s Dumbest', 'World\'s Dumbest',
+80625: 'MegaStructures', 'National Geographic Megastructures',
+81400: 'National Geographic Channel Naked Science', 'National Geographic Naked Science',
+82374: 'Ultimate Factories', 'National Geographic Ultimate Factories',
+71985: 'Taboo', 'National Geographic Taboo',
