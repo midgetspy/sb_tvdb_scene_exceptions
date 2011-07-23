@@ -42,7 +42,7 @@
 81386: 'Being Human', 'Being Human (UK)',
 89991: 'Out of the Wild: The Alaskan Experiment', 'Out of the Wild: Venezuela',
 222551: 'Only in America With Larry the Cable Guy', 'Only in America',
-77733: 'Degrassi: The Next Generation', 'Degrassi TNG',
+77733: 'Degrassi: The Next Generation', 'Degrassi TNG', 'Degrassi',
 72224: 'The Outer Limits (1995)', 'The Outer Limits: TNS', 'The Outer Limits: The New Series',
 78949: 'Thomas The Tank Engine & Friends', 'Thomas And Friends',
 83462: 'Castle (2009)', 'Castle',
