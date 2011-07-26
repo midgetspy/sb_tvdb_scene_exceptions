@@ -88,7 +88,7 @@
 145541: 'The Marriage Ref', 'The Marriage Ref US',
 250095: 'The Marriage Ref(UK)', 'The Marriage Ref UK',
 168621: 'Melissa & Joey', 'Melissa and Joey',
-74897:  'Hell's Kitchen (US)', 'Hells Kitchen US',
+74897:  'Hell\'s Kitchen (US)', 'Hells Kitchen US',
 100061: 'Undercover Boss', 'Undercover Boss UK',
 140141: 'Undercover Boss (US)', 'Undercover Boss US',
 79040:  'Britain's Next Top Model', 'Britains Next Top Model', 'Britain and Irelands Next Top Model',
