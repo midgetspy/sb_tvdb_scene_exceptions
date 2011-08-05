@@ -98,4 +98,9 @@
 250153: 'Top Design Australia', 'Top Design AU',
 250331: 'Richard Hammond\'s Journey To...', 'Richard Hammonds Journey To',
 248503: 'The Hour (2011)', 'The Hour UK 2011', 'The Hour 2011',
+81491:  'Big Brother After Dark'. 'Big Brother US After Dark', 'Big Brother After Dark US',
+196351: 'T.U.F.F. Puppy', 'TUFF Puppy',
+250445: 'The Renovators', 'The Renovators AU',
+
+
 
