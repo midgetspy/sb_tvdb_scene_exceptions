@@ -105,6 +105,9 @@
 193821: 'Iron Man 2010', 'Iron Man 2011',
 220141: 'Wolverine', 'Wolverine 2011',
 155201: 'Louie (2010)', 'Louie',
+70760: 'Celebrity Big Brother', 'Celebrity Big Brother UK',
+80522: 'Who Do You Think You Are?', 'Who Do You Think You Are UK',
+74626: 'The X Factor', 'The X Factor UK',
 
 
 
