@@ -108,6 +108,11 @@
 70760: 'Celebrity Big Brother', 'Celebrity Big Brother UK',
 80522: 'Who Do You Think You Are?', 'Who Do You Think You Are UK',
 74626: 'The X Factor', 'The X Factor UK',
+75567: 'The Xtra Factor', 'The Xtra Factor UK',
+152831: 'Adventure Time with Finn and Jake', 'Adventure Time',
+75393: 'The X Factor (AU)', 'The X Factor Australia',
+
+
 
 
 
