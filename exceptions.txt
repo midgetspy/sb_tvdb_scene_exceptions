@@ -111,6 +111,14 @@
 75567: 'The Xtra Factor', 'The Xtra Factor UK',
 152831: 'Adventure Time with Finn and Jake', 'Adventure Time',
 75393: 'The X Factor (AU)', 'The X Factor Australia',
+79565: 'The Real Hustle', 'The Real Hustle UK',
+71998: 'Jimmy Kimmel Live', 'Jimmy Kimmel',
+71470: 'Star Trek: The Next Generation', 'Star Trek TNG',
+82918: 'Diners, Drive-ins and Dives', 'Diners Drive ins and Dives',
+94551:  'Parenthood (2010)', 'Parenthood',
+
+
+
 
 
 
