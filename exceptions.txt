@@ -116,7 +116,7 @@
 71470: 'Star Trek: The Next Generation', 'Star Trek TNG',
 82918: 'Diners, Drive-ins and Dives', 'Diners Drive ins and Dives',
 94551:  'Parenthood (2010)', 'Parenthood',
-164541: 'Hawaii Five-0', 'Hawaii Five 0 (2010)',
+164541: 'Hawaii Five 0 2010',
 
 
 
