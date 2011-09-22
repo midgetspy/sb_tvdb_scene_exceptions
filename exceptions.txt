@@ -84,7 +84,7 @@
 74768: 'The Block', 'The Block AU',
 174681: 'Scooby-Doo! Mystery Incorporated', 'Scooby Doo Mystery Incorporated',
 249892: 'Extreme Chef', 'Extreme Chefs',
-88771:  'The Apprentice: You're Fired!', 'The Apprentice UK Youre Fired', 'The Apprentice UK Your Fired',
+88771:  'The Apprentice: You\'re Fired!', 'The Apprentice UK Youre Fired', 'The Apprentice UK Your Fired',
 145541: 'The Marriage Ref', 'The Marriage Ref US',
 250095: 'The Marriage Ref(UK)', 'The Marriage Ref UK',
 168621: 'Melissa & Joey', 'Melissa and Joey',
@@ -116,7 +116,7 @@
 71470: 'Star Trek: The Next Generation', 'Star Trek TNG',
 82918: 'Diners, Drive-ins and Dives', 'Diners Drive ins and Dives',
 94551:  'Parenthood (2010)', 'Parenthood',
-164541: 'Hawaii Five 0 2010',
+164541: 'Hawaii Five-0 (2010)',
 
 
 
