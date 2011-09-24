@@ -1,6 +1,6 @@
 72546: 'CSI',
 73696: 'CSI: New York',
-110381: 'Archer',
+110381: 'Archer (2009)', 'Archer',
 83897: 'Life After People: The Series',
 80552: 'Kitchen Nightmares (US)',
 71256: 'The Daily Show',
@@ -23,7 +23,7 @@
 72194: 'The Ellen Degeneres Show', 'Ellen Degeneres',
 72073: 'Star Trek DS9',
 195831: 'Zane Lamprey\'s Drinking Made Easy',
-76133: 'Poirot', 'Agatha Christie\'s Poirot',
+76133: 'Poirot', 'Agatha Christie\'s Poirot', 'Agatha Christie Poirot',
 70870: 'The Real World Road Rules Challenge', 'The Challenge Cutthroat',
 77444: 'This Old House Program',
 73290: '60 Minutes (US)',
@@ -117,6 +117,10 @@
 82918: 'Diners, Drive-ins and Dives', 'Diners Drive ins and Dives',
 94551:  'Parenthood (2010)', 'Parenthood',
 164541: 'Hawaii Five-0 (2010)',
+249708: 'The Car Show', 'The Car Show 2011',
+198841: 'Undercover Boss (Au)', 'Undercover Boss Australia',
+212171: 'My Little Pony: Friendship is Magic', 'My Little Pony Friendship is Magic',
+118001: 'Beauty and the Geek Australia', 'Beauty and the Geek AU',
 
 
 
