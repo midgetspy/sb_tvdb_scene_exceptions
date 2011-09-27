@@ -116,7 +116,6 @@
 71470: 'Star Trek: The Next Generation', 'Star Trek TNG',
 82918: 'Diners, Drive-ins and Dives', 'Diners Drive ins and Dives',
 94551:  'Parenthood (2010)', 'Parenthood',
-164541: 'Hawaii Five-0 (2010)',
 249708: 'The Car Show', 'The Car Show 2011',
 198841: 'Undercover Boss (Au)', 'Undercover Boss Australia',
 212171: 'My Little Pony: Friendship is Magic', 'My Little Pony Friendship is Magic',
