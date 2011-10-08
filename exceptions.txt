@@ -120,11 +120,5 @@
 198841: 'Undercover Boss (Au)', 'Undercover Boss Australia',
 212171: 'My Little Pony: Friendship is Magic', 'My Little Pony Friendship is Magic',
 118001: 'Beauty and the Geek Australia', 'Beauty and the Geek AU',
-
-
-
-
-
-
-
-
+80159:  'Sanctuary', 'Sanctuary US',
+82135: 'Gruen Planet', 'The Gruen Transfer',
