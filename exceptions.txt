@@ -122,10 +122,12 @@
 118001: 'Beauty and the Geek Australia', 'Beauty and the Geek AU',
 80159:  'Sanctuary', 'Sanctuary US',
 82135: 'Gruen Planet', 'The Gruen Transfer',
-164541: 'Hawaii.Five-0.2010',
+164541: 'Hawaii Five-0 (2010)',
 78846: 'Shameless UK',
 248834: 'Last Man Standing (2011)', 'Last Man Standing US', ' Last Man Standing',
 249361: 'Boss (2011)', 'Boss',
+75393: 'The X Factor (AU)', 'X-Factor Australia',
+95441: 'NCIS: Los Angeles', 'NCIS LA',
 
 
 
