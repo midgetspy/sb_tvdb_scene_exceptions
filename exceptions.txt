@@ -135,3 +135,5 @@
 164541: 'Hawaii Five-0 2010',
 70994: 'MASH',
 72164: 'The O.C.', 'The OC',
+70327: 'Buffy the Vampire Slayer', 'Buffy',
+70572: 'Little Rascals' , 'The Little Rascals',
