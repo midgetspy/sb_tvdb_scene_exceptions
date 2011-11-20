@@ -136,3 +136,4 @@
 70327: 'Buffy the Vampire Slayer', 'Buffy',
 70572: 'Little Rascals' , 'The Little Rascals',
 194261: 'PhoneShop', 'Phone Shop',
+85508: 'QI XL', 'BBC QI XL', 'BBC QI XL (Quite Interesting)',
