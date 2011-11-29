@@ -137,3 +137,9 @@
 70572: 'Little Rascals' , 'The Little Rascals',
 194261: 'PhoneShop', 'Phone Shop',
 85508: 'QI XL', 'BBC QI XL', 'BBC QI XL (Quite Interesting)',
+197001: 'Supernatural The Animation', 'Supernatural: TAS',
+122281: 'Garrow\'s Law - Tales from the Old Bailey', 'Garrows Law',
+249229: 'A.N.T Farm', 'ANT Farm',
+78051: 'Never Mind the Buzzcocks', 'Never Mind the Buzzcocks UK',
+208111: 'Gold Rush', 'Gold Rush: Alaska',
+
