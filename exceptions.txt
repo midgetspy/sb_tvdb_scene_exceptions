@@ -3,7 +3,6 @@
 110381: 'Archer (2009)', 'Archer',
 83897: 'Life After People: The Series',
 80552: 'Kitchen Nightmares (US)',
-71256: 'The Daily Show',
 75692: 'Law & Order: SVU',
 71489: 'Law & Order: Criminal Intent', 'Law & Order: CI',
 79590: 'Dancing With The Stars (US)',
@@ -142,4 +141,8 @@
 249229: 'A.N.T Farm', 'ANT Farm',
 78051: 'Never Mind the Buzzcocks', 'Never Mind the Buzzcocks UK',
 208111: 'Gold Rush', 'Gold Rush: Alaska',
+85168: 'How the Earth Was Made', 'History channel How the Earth Was Made',
+253727: 'The Café', 'The Cafe',
+71256: 'The Daily Show', 'The Daily Show with Jon Stewart',
+
 
