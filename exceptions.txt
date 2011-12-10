@@ -1,4 +1,4 @@
-72546: 'CSI',
+﻿72546: 'CSI',
 73696: 'CSI: New York',
 110381: 'Archer (2009)', 'Archer',
 83897: 'Life After People: The Series',
@@ -142,7 +142,5 @@
 78051: 'Never Mind the Buzzcocks', 'Never Mind the Buzzcocks UK',
 208111: 'Gold Rush', 'Gold Rush: Alaska',
 85168: 'How the Earth Was Made', 'History channel How the Earth Was Made',
-253727: 'The Caf�', 'The Cafe',
+253727: 'The Café', 'The Cafe',
 71256: 'The Daily Show', 'The Daily Show with Jon Stewart',
-
-
