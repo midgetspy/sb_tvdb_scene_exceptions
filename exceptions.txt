@@ -1,4 +1,4 @@
-﻿72546: 'CSI',
+72546: 'CSI',
 73696: 'CSI: New York',
 110381: 'Archer (2009)', 'Archer',
 83897: 'Life After People: The Series',
