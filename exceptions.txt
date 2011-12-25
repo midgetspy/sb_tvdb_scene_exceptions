@@ -143,3 +143,5 @@
 208111: 'Gold Rush', 'Gold Rush: Alaska',
 85168: 'How the Earth Was Made', 'History channel How the Earth Was Made',
 71256: 'The Daily Show', 'The Daily Show with Jon Stewart',
+253543: 'All American Muslim', 'All-American Muslim',
+
