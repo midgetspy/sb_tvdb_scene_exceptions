@@ -23,7 +23,6 @@
 72073: 'Star Trek DS9',
 195831: 'Zane Lamprey\'s Drinking Made Easy',
 76133: 'Poirot', 'Agatha Christie\'s Poirot', 'Agatha Christie Poirot',
-70870: 'The Real World Road Rules Challenge', 'The Challenge Cutthroat',
 77444: 'This Old House Program',
 73290: '60 Minutes (US)',
 194751: 'Conan', 'Conan (2010)',
@@ -147,5 +146,14 @@
 131791: 'Sci-Fi Science: Physics of the Impossible', 'Sci Fi Science Physics of the Impossible ',
 253931: 'Rob',
 255045: 'The L.A. Complex', 'The LA Complex',
+79212: 'The Dog Whisperer', 'Dog Whisperer',
+248935: 'Touch (2012)', 'Touch',
+254798: 'Stella (2012)', 'Stella UK,
+247824: 'The Voice (US)', 'The Voice',
+129261:  'Spartacus', 'Spartacus Blood and Sand', 'Spartacus Vengeance',
+70870: 'The Real World Road Rules Challenge', 'The Challenge Cutthroat','The Challenge Battle Of The Exes','The Challenge Rivals',
+
+
+
 
 
