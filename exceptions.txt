@@ -152,7 +152,7 @@
 247824: 'The Voice (US)', 'The Voice',
 129261:  'Spartacus', 'Spartacus Blood and Sand', 'Spartacus Vengeance',
 70870: 'The Real World Road Rules Challenge', 'The Challenge Cutthroat', 'The Challenge Battle Of The Exes', 'The Challenge Rivals',
-
+76703: 'Pokémon', 'Pokemon Galactic Battle', 'Pokemon Galactic Battles', 'Pokemon Diamond and Pearl Galactic Battle', 'Pokemon Diamond and Pearl Galactic Battles', 'Pokemon Battle Dimension', 'Pokemon Diamond and Pearl Battle Dimension', 
 
 
 
