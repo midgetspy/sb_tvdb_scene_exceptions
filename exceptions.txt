@@ -163,6 +163,10 @@
 79836: 'Dragon\'s Den (UK)',
 74946: 'C.O.P.S.' ,'C O P S',
 75382: 'The Ultimate Fighter Live',
+253485: 'The Syndicate 2012', 'The Syndicate',
+254112: 'Titanic 2012',
+248841: 'Scandal US',
+
 
 
 
