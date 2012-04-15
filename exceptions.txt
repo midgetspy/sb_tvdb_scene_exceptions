@@ -168,8 +168,8 @@
 248841: 'Scandal US',
 253323: 'Ninjago Masters Of Spinjitzu', 'LEGO NinjaGo: Masters of Spinjitzu',
 248812: 'Don\'t Trust the Bitch in Apartment 23',
-251807: 'Green Lantern: TAS', 'Green Lantern: The Animated Series',
-71788: 'Superman: The Animated Series', 'Superman: TAS',
+251807: 'Green Lantern TAS', 'Green Lantern The Animated Series',
+71788: 'Superman The Animated Series', 'Superman TAS',
 
 
 
