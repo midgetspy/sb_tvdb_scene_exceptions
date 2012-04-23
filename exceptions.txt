@@ -161,13 +161,20 @@
 72829: 'The Apprentice', 'The Apprentice US',
 198861: 'Film 2012 with Claudia Winkleman', 'Film 2011 with Claudia Winkleman',
 79836: 'Dragon\'s Den (UK)',
-74946: 'C.O.P.S.' ,'C O P S',
+74946: 'C.O.P.S.', 'C O P S',
 75382: 'The Ultimate Fighter Live',
 253485: 'The Syndicate 2012', 'The Syndicate',
 254112: 'Titanic 2012',
 248841: 'Scandal US',
 253323: 'Ninjago Masters Of Spinjitzu', 'LEGO NinjaGo: Masters of Spinjitzu',
-248812: 'Don\'t Trust the Bitch in Apartment 23',
+248812: 'Don\'t Trust the Bitch in Apartment 23', 'Dont Trust the Bitch in Apartment 23',
+251807: 'Green Lantern: The Animated Series', 'Green Lantern TAS',
+73246: '30 Minute Meals', '30 Minute Meals with Rachel Ray',
+256300: 'Richard Hammonds Crash Course', 'Richard Hammond\'s Crash Course',
+71788: 'Superman: The Animated Series', 'Superman TAS',
+
+
+
 
 
 
