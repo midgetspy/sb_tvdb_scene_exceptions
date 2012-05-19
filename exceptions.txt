@@ -43,7 +43,6 @@
 77733: 'Degrassi: The Next Generation', 'Degrassi TNG', 'Degrassi',
 72224: 'The Outer Limits (1995)', 'The Outer Limits: TNS', 'The Outer Limits: The New Series',
 78949: 'Thomas The Tank Engine & Friends', 'Thomas And Friends',
-83462: 'Castle (2009)', 'Castle',
 90651: 'Selling Houses Australia', 'Selling Houses Australia Extreme',
 70578: 'Highway Patrol', 'Highway Patrol (AU)',
 71699: 'The Outer Limits (1963)',
@@ -80,7 +79,6 @@
 74768: 'The Block', 'The Block AU',
 174681: 'Scooby-Doo! Mystery Incorporated', 'Scooby Doo Mystery Incorporated',
 249892: 'Extreme Chef', 'Extreme Chefs',
-88771:  'The Apprentice: You\'re Fired!', 'The Apprentice UK Youre Fired', 'The Apprentice UK Your Fired',
 145541: 'The Marriage Ref', 'The Marriage Ref US',
 250095: 'The Marriage Ref(UK)', 'The Marriage Ref UK',
 168621: 'Melissa & Joey', 'Melissa and Joey',
@@ -167,11 +165,18 @@
 254112: 'Titanic 2012',
 248841: 'Scandal US',
 253323: 'Ninjago Masters Of Spinjitzu', 'LEGO NinjaGo: Masters of Spinjitzu',
-248812: 'Don\'t Trust the Bitch in Apartment 23', 'Dont Trust the Bitch in Apartment 23',
 251807: 'Green Lantern: The Animated Series', 'Green Lantern TAS',
 73246: '30 Minute Meals', '30 Minute Meals with Rachel Ray',
 256300: 'Richard Hammonds Crash Course', 'Richard Hammond\'s Crash Course',
 71788: 'Superman: The Animated Series', 'Superman TAS',
+248812: 'Don\'t Trust the Bitch in Apartment 23', 'Dont Trust the Bitch in Apartment 23', 'Apartment 23',
+88771:  'The Apprentice: You\'re Fired!', 'The Apprentice UK Youre Fired', 'The Apprentice UK Your Fired', 'The Apprentice Youre Fired',
+83268: 'Star Wars The Cone Wars 2008', 'Star Wars The Cone Wars',
+83462: 'Castle (2009)', 'Castle', 'Castle 2009',
+255693: 'Undercover Boss Canada', 'Undercover Boss CA',
+79905: 'Tim and Eric Awesome Show', 'Tim and Erics Awesome Show Great Job',
+
+
 
 
 
