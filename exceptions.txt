@@ -82,7 +82,6 @@
 145541: 'The Marriage Ref', 'The Marriage Ref US',
 250095: 'The Marriage Ref(UK)', 'The Marriage Ref UK',
 168621: 'Melissa & Joey', 'Melissa and Joey',
-74897:  'Hell\'s Kitchen (US)', 'Hells Kitchen US',
 100061: 'Undercover Boss', 'Undercover Boss UK',
 140141: 'Undercover Boss (US)', 'Undercover Boss US',
 79040:  'Britain\'s Next Top Model', 'Britains Next Top Model', 'Britain and Irelands Next Top Model',
@@ -176,9 +175,10 @@
 255693: 'Undercover Boss Canada', 'Undercover Boss CA',
 79905: 'Tim and Eric Awesome Show', 'Tim and Erics Awesome Show Great Job',
 192061: 'Young Justice', 'Young Justice Invasion',
-
-
-
+74897:  'Hell\'s Kitchen (US)', 'Hells Kitchen US', 'Hells Kitchen US',
+92091: 'MasterChef Australia', 'MasterChef AU',
+227161: 'Oprah Presents Master Class', Oprah\'s Master Class',
+71721: 'America\'s Next Top Model', 'Americas Next Top Model',
 
 
 
