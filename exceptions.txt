@@ -175,9 +175,9 @@
 255693: 'Undercover Boss Canada', 'Undercover Boss CA',
 79905: 'Tim and Eric Awesome Show', 'Tim and Erics Awesome Show Great Job',
 192061: 'Young Justice', 'Young Justice Invasion',
-74897:  'Hell\'s Kitchen (US)', 'Hells Kitchen US', 'Hells Kitchen US',
+74897:  'Hell\'s Kitchen (US)', 'Hells Kitchen US', 'Hells Kitchen',
 92091: 'MasterChef Australia', 'MasterChef AU',
-227161: 'Oprah Presents Master Class', Oprah\'s Master Class',
+227161: 'Oprah Presents Master Class', 'Oprah\'s Master Class',
 71721: 'America\'s Next Top Model', 'Americas Next Top Model',
 
 
