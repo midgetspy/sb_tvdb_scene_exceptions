@@ -84,7 +84,6 @@
 168621: 'Melissa & Joey', 'Melissa and Joey',
 100061: 'Undercover Boss', 'Undercover Boss UK',
 140141: 'Undercover Boss (US)', 'Undercover Boss US',
-79040:  'Britain\'s Next Top Model', 'Britains Next Top Model', 'Britain and Irelands Next Top Model',
 250015: 'The Indestructibles', 'The Indestructibles US',
 248261: 'National Terrorism Strike Force: San Diego: Sport Utility Vehicle', 'National Terrorism Strike Force: San Diego: SUV', 'NTSF:SD:SUV::', 'NTSF SD SUV',
 249980: 'Restoration Home', 'Restoration Home UK',
@@ -168,17 +167,17 @@
 73246: '30 Minute Meals', '30 Minute Meals with Rachel Ray',
 256300: 'Richard Hammonds Crash Course', 'Richard Hammond\'s Crash Course',
 71788: 'Superman: The Animated Series', 'Superman TAS',
-248812: 'Don\'t Trust the Bitch in Apartment 23', 'Dont Trust the Bitch in Apartment 23', 'Apartment 23',
 88771:  'The Apprentice: You\'re Fired!', 'The Apprentice UK Youre Fired', 'The Apprentice UK Your Fired', 'The Apprentice Youre Fired',
 83268: 'Star Wars The Cone Wars 2008', 'Star Wars The Cone Wars',
 83462: 'Castle (2009)', 'Castle', 'Castle 2009',
 255693: 'Undercover Boss Canada', 'Undercover Boss CA',
 79905: 'Tim and Eric Awesome Show', 'Tim and Erics Awesome Show Great Job',
 192061: 'Young Justice', 'Young Justice Invasion',
-74897:  'Hell\'s Kitchen (US)', 'Hells Kitchen US', 'Hells Kitchen',
 92091: 'MasterChef Australia', 'MasterChef AU',
 227161: 'Oprah Presents Master Class', 'Oprah\'s Master Class',
-71721: 'America\'s Next Top Model', 'Americas Next Top Model',
+79040:  'Britains Next Top Model', 'Britain and Irelands Next Top Model',
+248812: 'Dont Trust the Bitch in Apartment 23', 'Apartment 23',
+74897:  'Hells Kitchen US', 'Hells Kitchen',
 
 
 
