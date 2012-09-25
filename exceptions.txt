@@ -72,7 +72,7 @@
 81400: 'National Geographic Channel Naked Science', 'National Geographic Naked Science',
 82374: 'Ultimate Factories', 'National Geographic Ultimate Factories',
 71985: 'Taboo', 'National Geographic Taboo',
-70870: 'The Challenge', 'The Real World Road Rules Challenge', 'The Challenge Cutthroat', 'The Challenge Rivals','The Challenge Ballge Of The Seasons 2'
+70870: 'The Challenge', 'The Real World Road Rules Challenge', 'The Challenge Cutthroat', 'The Challenge Rivals', 'The Challenge Battle Of The Seasons 2',
 84146: 'Secret Millionaire', 'Secret Millionaire US',
 85228: 'Law & Order: UK', 'Law and Order UK',
 74768: 'The Block', 'The Block AU',
