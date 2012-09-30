@@ -184,7 +184,7 @@
 260165: 'Chasing UFOs', 'National Geographic Chasing UFOs',
 253982: 'Common Law (2012)', 'Common Law',
 75032: 'Cathouse The Series', 'CatHouse',
-84312: ' Click (2000)', ' Click UK',
+84312: ' Click (2000)', 'Click UK',
 81346:  'Underbelly', 'The Underbelly Files', 'Underbelly Files', 'Underbelly A Tale of Two Cities', 'Underbelly Razor', 'Underbelly The Golden Mile', 'Underbelly Badness',
 76237: 'Big Brother (Australia)', 'Big Brother AU',
 82467: ' Eastbound & Down', 'Eastbound and Down',
@@ -199,4 +199,12 @@
 72231: 'Real Time with Bill Maher', 'Real Time With Bill Maher Plus Overtime',
 75382: 'The Ultimate Fighter Live', 'The Ultimate Fighter Fridays', 'The Ultimate Fighter',
 83268: 'Star Wars The Clone Wars 2008', 'Star Wars The Clone Wars',
+261240: 'H+', 'H',
+262368: 'Vikings (2012)', 'Vikings UK',
+262353: 'Leaving', 'Leaving UK',
+261202: 'DreamWorks Dragons: Riders of Berk', 'Dragons Riders of Berk',
+70870: 'The Challenge', 'The Challenge Battle Of The Seasons 2',
+
+
+
 
