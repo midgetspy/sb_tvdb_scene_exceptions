@@ -156,7 +156,6 @@
 254112: 'Titanic 2012',
 248841: 'Scandal US',
 253323: 'Ninjago Masters Of Spinjitzu', 'LEGO NinjaGo: Masters of Spinjitzu',
-251807: 'Green Lantern: The Animated Series', 'Green Lantern TAS',
 73246: '30 Minute Meals', '30 Minute Meals with Rachel Ray',
 256300: 'Richard Hammonds Crash Course', 'Richard Hammond\'s Crash Course',
 71788: 'Superman: The Animated Series', 'Superman TAS',
@@ -197,7 +196,10 @@
 261240: 'H+', 'H',
 262368: 'Vikings (2012)', 'Vikings UK',
 262353: 'Leaving', 'Leaving UK',
-261202: 'DreamWorks Dragons: Riders of Berk', 'Dragons Riders of Berk',
+261202: 'DreamWorks Dragons: Riders of Berk', 'Dragons Riders of Berk', 'DreamWorks Dragons Riders of Berk',
+251807: 'Green Lantern: The Animated Series', 'Green Lantern TAS', 'Green Lantern The Animated Series',
+256204: '666 Park Avenue', 'Park Avenue',
+
 
 
 
