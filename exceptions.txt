@@ -199,6 +199,9 @@
 261202: 'DreamWorks Dragons: Riders of Berk', 'Dragons Riders of Berk', 'DreamWorks Dragons Riders of Berk',
 251807: 'Green Lantern: The Animated Series', 'Green Lantern TAS', 'Green Lantern The Animated Series',
 256204: '666 Park Avenue', 'Park Avenue',
-
+113901: 'The Super Hero Squad Show', 'The Super Hero Squad',
+122521: 'The Fresh Beat Band', 'Fresh Beat Band',
+262927: 'Ian Hislop\'s Stiff Upper Lip', 'Ian Hislops Stiff Upper Lip An Emotional History Of Britain',
+263002: 'Switch (2012)', 'Switch UK',
 
 
