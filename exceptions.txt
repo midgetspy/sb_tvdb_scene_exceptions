@@ -145,7 +145,7 @@
 80379: 'The Big Bang Theory', 'Big Bang Theory',
 248789: 'Smash (2012)', 'Smash',
 79177: 'Life On Mars UK',
-248836: 'The river',
+248836: 'The River',
 165521: 'Girls Gone Wild The Search for the Hottest Girl in America',
 81391: 'Wie is de mol?', 'Wie is de mol', 'widm',
 72829: 'The Apprentice', 'The Apprentice US',
