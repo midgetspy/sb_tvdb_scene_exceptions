@@ -219,3 +219,5 @@
 73587: 'The Twilight Zone 1959', 'The Twilight Zone 1960', 'The Twilight Zone 1961', 'The Twilight Zone 1962', 'The Twilight Zone 1963', 'The Twilight Zone 1964',
 80101: 'Harry And Paul',
 263506: 'Jamies 16 Minute Meals',
+29355: 'Jessie',
+73641: 'King of Queens',
