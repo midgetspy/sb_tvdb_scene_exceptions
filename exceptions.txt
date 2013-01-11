@@ -141,7 +141,7 @@
 247824: 'The Voice (US)', 'The Voice',
 129261: 'Spartacus', 'Spartacus Blood and Sand', 'Spartacus Vengeance',
 70870: 'The Real World Road Rules Challenge', 'The Challenge Cutthroat', 'The Challenge Battle Of The Exes', 'The Challenge Rivals', 'The Challenge Battle Of The Seasons 2',
-80379: 'The Big Bang Theory', 'Big Bang Theory',
+80379: 'The Big Bang Theory', 'Big Bang Theory', 'TBBT'
 248789: 'Smash (2012)', 'Smash',
 79177: 'Life On Mars UK',
 248836: 'The River',
