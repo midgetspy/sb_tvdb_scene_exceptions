@@ -230,3 +230,4 @@
 73178: 'Two Guys a Girl and a Pizza Place',
 264679: 'National Geographic UFO Europe Untold Stories',
 254798: 'Stella UK',
+77780: 'G.I. Joe', 'GI Joe', G I Joe',
