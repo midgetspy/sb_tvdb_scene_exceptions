@@ -2,7 +2,7 @@
 73696: 'CSI: New York',
 110381: 'Archer (2009)', 'Archer',
 83897: 'Life After People: The Series',
-80552: 'Kitchen Nightmares (US)',
+80552: 'Kitchen Nightmares (US)', 'Kitchen Nightmares US',
 75692: 'Law & Order: SVU',
 71489: 'Law & Order: Criminal Intent', 'Law & Order: CI',
 79590: 'Dancing With The Stars (US)',
