@@ -247,3 +247,4 @@
 262980: 'House of Cards 2013',
 248935: 'Touch',
 79824: 'Naruto Shippuden',
+138981: 'My Kitchen Rules', 'My Kitchen Rules AU', 'My Kitchen Rules (AU)'
