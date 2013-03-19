@@ -72,7 +72,7 @@
 71985: 'Taboo', 'National Geographic Taboo',
 84146: 'Secret Millionaire', 'Secret Millionaire US',
 85228: 'Law & Order: UK', 'Law and Order UK',
-74768: 'The Block', 'The Block AU',
+74768: 'The Block', 'The Block AU', 'The Block All Stars', 'The Block All Stars AU', 'The Block AU All Stars',
 174681: 'Scooby-Doo! Mystery Incorporated', 'Scooby Doo Mystery Incorporated',
 249892: 'Extreme Chef', 'Extreme Chefs',
 145541: 'The Marriage Ref', 'The Marriage Ref US',
