@@ -101,7 +101,7 @@
 79565: 'The Real Hustle', 'The Real Hustle UK',
 71998: 'Jimmy Kimmel Live', 'Jimmy Kimmel',
 71470: 'Star Trek: The Next Generation', 'Star Trek TNG',
-82918: 'Diners, Drive-ins and Dives', 'Diners Drive ins and Dives',
+82918: 'Diners, Drive-ins and Dives', 'Diners Drive ins and Dives', 'Diners Driveins and Dives',
 94551: 'Parenthood (2010)', 'Parenthood',
 249708: 'The Car Show', 'The Car Show 2011',
 198841: 'Undercover Boss (Au)', 'Undercover Boss Australia',
