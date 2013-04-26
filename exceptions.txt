@@ -250,5 +250,8 @@
 178141: 'My Ghost Story',
 74372: 'Blue Planet',
 257804: 'Too Cute!',
+88631: 'Krod Mandoon',
+259669: 'DaVincis Demons',
+268906: 'Zombieland The Series',
 258171:'Continuum (2013)',
 153021:'The Walking Dead (2013)',
