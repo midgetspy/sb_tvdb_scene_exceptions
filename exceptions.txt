@@ -48,7 +48,7 @@
 238521: 'Adam Eva',
 74512: 'Wife Swap (US)',
 166851: 'Noise Control (NZ)',
-83774: 'Antiques Roadshow (UK)',
+83774: 'Antiques Roadshow (UK)', 'Antiques Roadshow UK',
 156771: 'National Geographic Shark Men'
 246281: 'King', 'King (2011)',
 76168: 'Batman: The Animated Series', 'Batman: TAS',
@@ -250,3 +250,9 @@
 178141: 'My Ghost Story',
 74372: 'Blue Planet',
 257804: 'Too Cute!',
+88631: 'Krod Mandoon',
+259669: 'DaVincis Demons',
+268906: 'Zombieland The Series',
+72449: 'Stargate SG1',
+258171: 'Continuum (2013)',
+153021: 'The Walking Dead (2013)',
