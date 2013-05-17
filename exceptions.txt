@@ -250,3 +250,5 @@
 259669: 'DaVincis Demons',
 268906: 'Zombieland The Series',
 72449: 'Stargate SG1',
+258171: 'Continuum (2013)',
+153021: 'The Walking Dead (2013)',
