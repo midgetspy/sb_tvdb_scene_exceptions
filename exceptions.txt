@@ -150,7 +150,7 @@
 72829: 'The Apprentice', 'The Apprentice US',
 198861: 'Film 2013 with Claudia Winkleman', 'Film 2012 with Claudia Winkleman', 'Film 2011 with Claudia Winkleman',
 79836: 'Dragon\'s Den (UK)',
-74946: 'C O P S', 'COPS',
+74946: 'C O P S',
 253485: 'The Syndicate 2012', 'The Syndicate',
 254112: 'Titanic 2012',
 248841: 'Scandal US',
