@@ -294,3 +294,5 @@
 265393: 'The Legends of Chima',
 83115: 'The Worlds Strictest Parents UK',
 273002: 'I Couldnt Become a Hero So I Reluctantly Decided to Get a Job',
+269653: 'The Goldbergs',
+274099: 'Midnight',
