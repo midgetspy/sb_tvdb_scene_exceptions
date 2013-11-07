@@ -285,7 +285,7 @@
 269586: 'Brooklyn Nine Nine',
 80964: 'Yo Gabba Gabba',
 251334: 'Lawless UK',
-268591: 'The Tomorrow People US',
+268591: 'The Tomorrow People US', 'Tomorrow People',
 273383: 'The House That 100k Built',
 271936: 'Played CA',
 213211: 'Love Hate',
@@ -300,3 +300,4 @@
 223161: 'CBC Marketplace',
 95521: 'National Geographic Ancient Megastructures',
 80915: 'La Linea 1972',
+271728: 'Pete Holmes Show',
