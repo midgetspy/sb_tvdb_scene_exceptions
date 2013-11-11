@@ -108,7 +108,7 @@
 212171: 'My Little Pony: Friendship is Magic', 'My Little Pony Friendship is Magic',
 118001: 'Beauty and the Geek Australia', 'Beauty and the Geek AU',
 80159: 'Sanctuary', 'Sanctuary US',
-82135: 'Gruen Planet', 'The Gruen Transfer',
+82135: 'The Gruen Transfer', 'Gruen Nation', 'Gruen Sweat',
 78846: 'Shameless UK',
 248834: 'Last Man Standing (2011)', 'Last Man Standing US', 'Last Man Standing',
 249361: 'Boss (2011)', 'Boss',
