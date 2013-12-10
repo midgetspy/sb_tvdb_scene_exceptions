@@ -171,7 +171,7 @@
 257645: 'Ultimate Spider-man', 'Ultimate Spiderman', 'Ultimate Spider man',
 260206: 'Gordon Behind Bars', 'Gordon Ramsay Behind Bars',
 77120: 'Aqua Teen Hunger Force', 'Aqua Unit Patrol Squad', 'Aqua Unit Patrol Squad 1', 'Aqua Something You Know Whatever',
-250525: 'Hamish And Andys Gap Year', 'Hamish And Andys Euro Gap Year',
+250525: 'Hamish And Andys Gap Year', 'Hamish And Andys Euro Gap Year', 'Hamish And Andys Gap Year Asia',
 84133: 'Manhunters: Fugitive Task Force', 'Manhunters - Fugitive Task Force',
 205901: 'Transformers Prime', 'Transformers Prime Beast Hunters',
 248699: '24 Hours In A And E',
