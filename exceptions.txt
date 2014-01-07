@@ -181,7 +181,7 @@
 84312: 'Click (2000)', 'Click UK',
 81346: 'Underbelly', 'The Underbelly Files', 'Underbelly Files', 'Underbelly A Tale of Two Cities', 'Underbelly Razor', 'Underbelly The Golden Mile', 'Underbelly Badness', 'Underbelly Squizzy',
 76237: 'Big Brother (Australia)', 'Big Brother AU',
-82467: 'Eastbound & Down', 'Eastbound and Down',
+82467: 'Eastbound Down', 'Eastbound and Down',
 82448: 'Project Runway Australia', 'Project Runway AU',
 72663: 'Accused', 'Accused UK',
 132591: '7 Days (2009)', '7 Days NZ',
