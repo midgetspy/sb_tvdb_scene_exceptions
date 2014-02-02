@@ -123,7 +123,7 @@
 70327: 'Buffy the Vampire Slayer', 'Buffy',
 70572: 'Little Rascals', 'The Little Rascals',
 194261: 'PhoneShop', 'Phone Shop',
-85508: 'QI XL', 'BBC QI XL', 'BBC QI XL (Quite Interesting)',
+72716: 'QI XL', 'BBC QI XL', 'BBC QI XL (Quite Interesting)', 'BBC QI', 'BBC QI (Quite Interesting)',
 197001: 'Supernatural The Animation', 'Supernatural: TAS',
 122281: 'Garrow\'s Law - Tales from the Old Bailey', 'Garrows Law',
 249229: 'A.N.T Farm', 'ANT Farm',
