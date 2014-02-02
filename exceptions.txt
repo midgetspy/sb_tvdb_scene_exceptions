@@ -4,7 +4,7 @@
 83897: 'Life After People: The Series',
 80552: 'Kitchen Nightmares (US)', 'Kitchen Nightmares US',
 75692: 'Law & Order: SVU',
-71489: 'Law & Order: Criminal Intent', 'Law & Order: CI',
+71489: 'Law and Order CI', 'Law & Order: CI',
 79590: 'Dancing With The Stars (US)',
 73387: 'The Late Late Show with Craig Ferguson', 'Craig Ferguson',
 85355: 'Jimmy Fallon',
