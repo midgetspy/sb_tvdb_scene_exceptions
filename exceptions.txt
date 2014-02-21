@@ -7,7 +7,6 @@
 71489: 'Law and Order CI', 'Law & Order: CI',
 79590: 'Dancing With The Stars (US)',
 73387: 'The Late Late Show with Craig Ferguson', 'Craig Ferguson',
-85355: 'Jimmy Fallon',
 75088: 'David Letterman',
 76706: 'Big Brother (US)',
 105521: 'The Colony', 'The Colony (US)',
