@@ -333,4 +333,4 @@
 266388: 'David Attenboroughs Natural Curiosities',
 166251: 'Four Corners',
 260586: 'Cosmos A Space Time Odyssey',
-269650: 'Resurrection',
+269650: 'Resurrection US',
