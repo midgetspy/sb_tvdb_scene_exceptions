@@ -336,3 +336,4 @@
 269650: 'Resurrection US',
 276312: 'From Dusk Til Dawn',
 276148: 'Review With Forrest MacNeil',
+273761: 'Master Chef Canada',
