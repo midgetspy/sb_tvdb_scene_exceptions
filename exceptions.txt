@@ -339,3 +339,4 @@
 273761: 'Master Chef Canada',
 269651: 'Mind Games',
 278126: 'Akuma No Riddle',
+278329: 'Mahouka Koukou no Rettousei' 
