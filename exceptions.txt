@@ -342,3 +342,5 @@
 202571: 'The Trip to Italy',
 260489: 'National Geographic Caught In The Act',
 279603: 'The Face AU',
+84489: 'Masterchef', 'MasterChef UK',
+260839: 'MasterChef Allstars AU',
