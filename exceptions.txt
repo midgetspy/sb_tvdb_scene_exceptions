@@ -355,3 +355,4 @@
 78956: 'So You Think You Can Dance US',
 273616: 'Pokemon Origins',
 79389: 'Nightmares and Dreamscapes',
+83299: 'Magics Biggest Secrets Finally Revealed',
