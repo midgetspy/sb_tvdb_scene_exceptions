@@ -30,7 +30,7 @@
 212571: 'Come Fly With Me (2010)',
 81563: 'Border Security AU Front Line', 'Border Security Australia\'s Frontline',
 172381: 'Silent Library (US)',
-80646: 'Frontline (US)', 'Frontline',
+80646: 'Frontline (US)', 'Frontline US',
 189931: 'RBT (AU)',
 73255: 'House', 'House M D',
 73244: 'The Office (US)', 'The Office',
