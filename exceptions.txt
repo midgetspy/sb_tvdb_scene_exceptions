@@ -362,3 +362,4 @@
 82060: 'Who Do You Think You Are AU',
 271421: 'Clarence US',
 280937: 'Satisfaction US',
+280939: 'Rush US',
