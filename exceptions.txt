@@ -310,7 +310,7 @@
 265467: 'Polar Bear Family and Me',
 267260: 'Intelligence US',
 275723: 'Panic Button US',
-269641: 'Chicago P D', 'Chicago PD',
+269641: 'Chicago PD', 'Chicago P D',
 271632: 'Lucas Bros Moving Company',
 252019: 'The Bridge 2011',
 264085: 'The Bridge US',
@@ -405,3 +405,5 @@
 290038: 'Troy-Street Magic',
 290865: 'Salem Rogers Model Of The Year 1998',
 286373: 'The Nightly Show',
+194031: 'Bobs Burgers'
+75805: 'Its Always Sunny in Philadelphia'
