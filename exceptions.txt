@@ -406,3 +406,5 @@
 290865: 'Salem Rogers Model Of The Year 1998',
 286373: 'The Nightly Show',
 270948: 'Morgan Spurlock Inside Man',
+74608: 'Top Gear UK',
+292044: 'Critical UK',
