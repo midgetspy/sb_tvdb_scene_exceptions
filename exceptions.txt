@@ -194,7 +194,7 @@
 261240: 'H+', 'H',
 262368: 'Vikings (2012)', 'Vikings UK',
 262353: 'Leaving', 'Leaving UK',
-261202: 'DreamWorks Dragons: Riders of Berk', 'Dragons Riders of Berk', 'DreamWorks Dragons Riders of Berk', 'Dragons Defenders of Berk',
+261202: 'DreamWorks Dragons: Riders of Berk', 'Dragons Riders of Berk', 'DreamWorks Dragons Riders of Berk', 'Dragons Defenders of Berk', 'Dreamworks Dragons',
 251807: 'Green Lantern: The Animated Series', 'Green Lantern TAS', 'Green Lantern The Animated Series',
 256204: '666 Park Avenue', 'Park Avenue',
 113901: 'The Super Hero Squad Show', 'The Super Hero Squad',
