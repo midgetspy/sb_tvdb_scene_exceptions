@@ -153,7 +153,7 @@
 253485: 'The Syndicate 2012', 'The Syndicate',
 254112: 'Titanic 2012',
 248841: 'Scandal US',
-253323: 'Ninjago Masters Of Spinjitzu', 'LEGO NinjaGo: Masters of Spinjitzu', 'Ninjago Masters of Spinjitzu The Tournament of Elements',
+253323: 'Ninjago Masters Of Spinjitzu', 'LEGO NinjaGo: Masters of Spinjitzu', 'Ninjago Masters of Spinjitzu The Tournament of Elements', 'Ninjago Masters of Spinjitzu Posession',
 73246: '30 Minute Meals', '30 Minute Meals with Rachel Ray',
 256300: 'Richard Hammonds Crash Course', 'Richard Hammond\'s Crash Course',
 71788: 'Superman: The Animated Series', 'Superman TAS',
