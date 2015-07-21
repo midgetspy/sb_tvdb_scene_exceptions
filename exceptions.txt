@@ -429,3 +429,6 @@
 279659: 'StarTalk',
 288914: 'Penn Zero',
 296550: 'Glitch',
+291206: 'Broke-Ass Game Show',
+283345: 'Sex and Drugs and Rock and Roll',
+296301: 'The Seventies',
