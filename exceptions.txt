@@ -293,7 +293,7 @@
 83115: 'The Worlds Strictest Parents UK',
 273002: 'I Couldnt Become a Hero So I Reluctantly Decided to Get a Job',
 269653: 'The Goldbergs',
-274099: 'At Midnight',
+274099: 'At Midnight', 'At Midnight With Chris Hardwick', 
 271936: 'Played CA',
 223161: 'CBC Marketplace',
 95521: 'National Geographic Ancient Megastructures',
