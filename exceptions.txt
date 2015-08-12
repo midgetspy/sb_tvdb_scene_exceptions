@@ -435,3 +435,9 @@
 82152: 'Engrenages', 'Spiral 2005',
 298167: 'HBO Documentaries SEX ON', 'Sex On',
 297509: 'Blue Collar Millionares',
+258204: 'The Voice AU 2015'
+294417: 'Scream The TV Series'
+291288: 'Bizarre Foods-Delicious Destinations'
+282403: 'Big Time in Hollywood,FL'
+297084: 'Not Safe For Work UK'
+298164: 'Rookie Cops'
