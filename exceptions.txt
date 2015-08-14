@@ -435,4 +435,4 @@
 82152: 'Engrenages', 'Spiral 2005',
 298167: 'HBO Documentaries SEX ON', 'Sex On',
 297509: 'Blue Collar Millionares',
-82402: 'Hard Knocks',
+82402: 'Hard Knocks', 'Hard Knocks 2001',
