@@ -246,7 +246,7 @@
 74372: 'Blue Planet',
 257804: 'Too Cute!',
 88631: 'Krod Mandoon',
-259669: 'DaVincis Demons', 'Vincis Demons', 'Vinci\'s Demons',
+259669: 'Da Vincis Demons',
 72449: 'Stargate SG1',
 264030: 'Avengers Assemble', 'Marvels Avengers Assemble',
 73893: 'Enterprise',
