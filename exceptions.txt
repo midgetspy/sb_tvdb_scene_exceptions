@@ -436,3 +436,5 @@
 298167: 'HBO Documentaries SEX ON', 'Sex On',
 297509: 'Blue Collar Millionares',
 82402: 'Hard Knocks', 'Hard Knocks Houston Texans',
+105251: 'Q and A AU',
+196901: 'Grand Designs AU',
