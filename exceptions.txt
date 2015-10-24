@@ -446,4 +446,5 @@
 283761: 'Kingdom',
 251464: 'Worlds Most Dangerous Roads',
 298156: 'ConMan',
-300003: 'Total Drama The Ridonculous Race'
+300003: 'Total Drama The Ridonculous Race',
+300769: 'The Kennedys', 'The Kennedys UK',
