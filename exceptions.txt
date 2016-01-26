@@ -448,3 +448,4 @@
 298156: 'ConMan',
 291517: 'Agent X US',
 299139: 'The Magicians US',
+299139: 'The Magicians 2016',
