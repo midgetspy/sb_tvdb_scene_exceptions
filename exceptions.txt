@@ -129,7 +129,7 @@
 78051: 'Never Mind the Buzzcocks', 'Never Mind the Buzzcocks UK',
 208111: 'Gold Rush', 'Gold Rush: Alaska',
 85168: 'How the Earth Was Made', 'History channel How the Earth Was Made',
-71256: 'The Daily Show', 'The Daily Show with Jon Stewart',
+71256: 'The Daily Show', 'The Daily Show with Jon Stewart', 'The Daily Show with Trevor Noah',
 253543: 'All American Muslim', 'All-American Muslim',
 131791: 'Sci-Fi Science', 'Sci-Fi Science: Physics of the Impossible', 'Sci Fi Science Physics of the Impossible',
 253931: 'Rob',
