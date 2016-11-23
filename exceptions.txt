@@ -248,7 +248,7 @@
 88631: 'Krod Mandoon',
 259669: 'DaVincis Demons', 'Vincis Demons', 'Vinci\'s Demons',
 72449: 'Stargate SG1',
-264030: 'Avengers Assemble', 'Marvels Avengers Assemble', 'Marvels Avengers-Ultron Revolution',
+264030: 'Avengers Assemble', 'Marvels Avengers Assemble', 'Marvels Avengers-Ultron Revolution', 'Marvels Avengers-Secret Wars',
 73893: 'Enterprise',
 250267: 'The Food Truck NZ',
 81580: 'Come Dine With Me UK',
