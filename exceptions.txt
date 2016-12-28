@@ -167,7 +167,7 @@
 79040: 'Britains Next Top Model', 'Britain and Irelands Next Top Model',
 248812: 'Dont Trust the Bitch in Apartment 23', 'Apartment 23',
 74897: 'Hells Kitchen US', 'Hells Kitchen',
-257645: 'Ultimate Spider-man', 'Ultimate Spiderman', 'Ultimate Spider man', 'Ultimate Spider-Man Web Warriors',
+257645: 'Ultimate Spider-man', 'Ultimate Spiderman', 'Ultimate Spider man', 'Ultimate Spider-Man Web Warriors', 'Ultimate Spider-Man vs the Sinister 6',
 260206: 'Gordon Behind Bars', 'Gordon Ramsay Behind Bars',
 77120: 'Aqua Teen Hunger Force', 'Aqua Unit Patrol Squad', 'Aqua Unit Patrol Squad 1', 'Aqua Something You Know Whatever',
 250525: 'Hamish And Andys Gap Year', 'Hamish And Andys Euro Gap Year',
@@ -454,3 +454,4 @@
 314599: 'Divorce',
 311713: 'Timeless',
 314087: 'The Grand Tour (2016)', 'The Grand Tour',
+275120: 'Bordertown US',
