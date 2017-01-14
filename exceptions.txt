@@ -456,4 +456,4 @@
 314087: 'The Grand Tour (2016)', 'The Grand Tour',
 275120: 'Bordertown US',
 292157: 'Taboo UK',
-306304: "Lemony Snickets A Series of Unfortunate Events",
+306304: 'Lemony Snickets A Series of Unfortunate Events',
