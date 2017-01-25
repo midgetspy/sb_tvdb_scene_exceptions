@@ -458,3 +458,4 @@
 292157: 'Taboo UK',
 306304: 'Lemony Snickets A Series of Unfortunate Events',
 314544: 'Travelers',
+295837: 'Shadowhunters The Mortal Instruments',
