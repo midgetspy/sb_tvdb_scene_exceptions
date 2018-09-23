@@ -476,3 +476,4 @@
 338664: 'Instinct US',
 349659: 'Mayans MC',
 351028: 'Strangers',
+350864: 'Maniac', 'Maniac 2018',
