@@ -475,3 +475,7 @@
 336522: 'The End of the Fucking World',
 338664: 'Instinct US',
 349659: 'Mayans MC',
+351028: 'Strangers',
+350864: 'Maniac',
+365722: 'Another Life',
+305165: 'The Ranch',
